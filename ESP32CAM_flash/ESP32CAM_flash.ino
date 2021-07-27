@@ -12,7 +12,7 @@
 //Definición de pines
 //  >> Línea original
 //#define LAMP 4 //Se selecciona 
-#define LAMP 5 // nueva línea, solo borrar línea y descomentar la anterior
+#define LAMP 6 // nueva línea, solo borrar línea y descomentar la anterior
 //Inicialización del programa
 void setup() //Estructura principal
 {
